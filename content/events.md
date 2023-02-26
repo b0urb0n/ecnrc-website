@@ -1,6 +1,16 @@
 ---
 title: "2023 Events"
 ---
+# Programs
+
+**Tuesday afternoons and evenings**: High Power Practice
+
+**Wednesday afternoons and evenings**: Schuetzen Practice
+
+**Thursday**: Silhouette Practice
+
+# Competitions
+
 | Date            | Event           |   |
 | --------------- | --------------- | - |
 | April 29th      | NRA 4-gun (600) | [Entry Form (PDF; p1)](/2023/4-23match.pdf) |
@@ -11,4 +21,5 @@ title: "2023 Events"
 | September 23rd  | NRA 4-gun (600) | [Entry Form (PDF; p1)](/2023/9-23-24-23match.pdf)
 | September 24th  | NRA OTC         | [Entry Form (PDF; p2)](/2023/9-23-24-23match.pdf)
 
-
+# Deer Sight-in Clinic
+Dates TBD

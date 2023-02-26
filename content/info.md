@@ -1,6 +1,5 @@
 ---
 title: "Club Information"
-featured_image: ''
 ---
 # Contact
 
@@ -16,6 +15,8 @@ tzemaitis66@gmail.com
 
 8768 North Shore Drive
 Eau Claire, WI 54703
+
+{{< weather >}}
 
 ## Directions
 
