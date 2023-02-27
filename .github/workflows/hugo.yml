@@ -25,7 +25,7 @@ jobs:
         hugo-version: 'latest'
 
     - name: Populate Config
-      run: envsubst < config.toml.env > config.toml
+      run: env && envsubst < config.toml.env > config.toml && cat config.toml
 
     - name: Build
       run: hugo --minify
