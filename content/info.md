@@ -28,5 +28,5 @@ Eau Claire, WI 54703
 
 ## Map
 
-{{< google-maps height="400" location="ECNRC, Eau Claire, WI, USA" >}}
+{{< google-maps >}}
 
