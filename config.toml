@@ -10,7 +10,6 @@ theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
   favicon = ""
   site_logo = ""
   description = ""
-  googleMapsAPIKey = ""
 
 [[menu.main]]
   name = "Info"
