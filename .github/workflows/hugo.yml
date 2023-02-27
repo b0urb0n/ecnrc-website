@@ -26,6 +26,8 @@ jobs:
 
     - name: Populate Config
       run: env && envsubst < config.toml.env > config.toml && cat config.toml
+      env:
+        GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
 
     - name: Build
       run: hugo --minify
