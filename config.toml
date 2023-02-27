@@ -1,4 +1,5 @@
-baseURL = 'https://b0urb0n.github.io/ecnrc-website/'
+#baseURL = 'https://b0urb0n.github.io/ecnrc-website/'
+baseURL = 'https://ecnrc.bourbon.dev/'
 languageCode = 'en-us'
 title = "ECNRC"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
